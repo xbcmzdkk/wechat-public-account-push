@@ -77,8 +77,7 @@ const USER_CONFIG = {
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
       horoscopeDateType: '今日',
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
-      openUrl: 'https://ts1.cn.mm.bing.net/th/id/R-C.d79413ed97187010a1023db20f04313c?rik=QJSp8qBi2RQTcA&riu=http%3a%2f%2fdmimg.5054399.com%2fallimg%2faotm%2fdjatm%2f16.jpg&ehk=y9CB8eZxcunOrHmVRxAemW06YO0T0q9WWoGl8Z12Two%3d&risl=&pid=ImgRaw&r=0'
-',
+      openUrl: 'http://xbcmzdkk.github.io',
       // 专属节日提醒，如果你在这里填写了节日提醒，就不会执行FESTIVALS的提醒了, 和FESTIVALS的配置方法相同，可以往下查看，我这里就不重复写了
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
